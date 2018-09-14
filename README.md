@@ -1,4 +1,4 @@
-# DaSH The "Supah Haka"
+# DaSH - The "Supah Haka"
 This is a repository of the current version of...
 
 https://github.com/GhostInTheSteiner/Daru
