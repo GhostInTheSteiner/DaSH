@@ -1,0 +1,23 @@
+{
+	"email": "Sono me, dare no me?",
+	"password": "Sono me, dare no me?",
+	"token": "Sono me, dare no me?",
+	"owner": "277821614345945089",
+	"extensions": [
+		{
+			"name": "addons.dsmn"
+		},
+		{
+			"name": "addons.list"
+		},
+		{
+			"name": "addons.general"
+		},
+		{
+			"name": "addons.service"
+		},
+		{
+			"name": "addons.sql"
+		}
+	]
+}
