@@ -7,4 +7,4 @@ https://github.com/GhostInTheSteiner/Daru
 
 https://github.com/RIP95/daru-bot
 
-Since I started hosting the bot on my Banana Pi myself and Emojikage stopped maintaining/developping the bot, I decided to open my own GitHub for the current version of DaSH ("Daru the Supah Haka", the new "old" name of Daru).
+Since I started hosting the bot on my Banana Pi myself and Emojikage stopped maintaining/developping the bot, I decided to open my own GitHub for the current version of DaSH ("Daru the Super Hacker", the new "old" name of Daru).
